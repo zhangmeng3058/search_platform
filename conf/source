@@ -1,0 +1,16 @@
+{
+    "data": {
+        "source_types": [
+            [
+                "S001",
+                "https://tieba.baidu.com/p/2555125530"
+            ],
+            [
+                "S002",
+                "https://tieba.baidu.com/p/2555125530"
+            ]
+        ]
+    },
+    "errno": "0",
+    "errmsg": "OK"
+}
